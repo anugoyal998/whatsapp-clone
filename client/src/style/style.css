@@ -1,0 +1,21 @@
+/* landing */
+
+/* emojipicker */
+.emoji-picker-react{
+    width: 100% !important;
+    background-color: #ededed !important;
+    transition: all .3s ease-in-out !important;
+}
+.emoji-search{
+    background-color: #e6e6e6 !important;
+    opacity: .7 !important;
+    border-radius: 5px !important;
+    margin-bottom:.5rem !important;
+}
+.emoji-group::before{
+    background-color: #e6e6e6 !important;
+}
+.emoji-group{
+    margin-bottom:.5rem !important;
+}
+/* emojipicker */
